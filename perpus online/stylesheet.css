@@ -1,0 +1,50 @@
+body {
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.gas {
+    font-size: 70px;
+    margin-left: 20;
+    margin-top: 50;
+}
+
+.j {
+    position: absolute;
+    right: 100px;
+}
+
+.qo {
+    font-family: sans-serif;
+    font-size: 20px;
+    transform: rotate(40deg);
+    text-align: center;
+    margin-bottom: 10px;
+    position: absolute;
+    top: 65px;
+    right: 30px;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+
+
+.coba {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-width: 1;
+    margin-left: 40;
+    top: 400px;
+    height: 30px;
+    width: 150px;
+    border-style: none;
+    background-color: white;
+}
+
+.coba:hover {
+    background-color: black;
+    color: white;
+  }

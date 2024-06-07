@@ -1,0 +1,12 @@
+.div1 {
+    position: relative;
+    left: 4rem;
+}
+
+.div2 {
+    background-color: lightgreen;
+    padding: 10px;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

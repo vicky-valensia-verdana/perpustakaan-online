@@ -1,0 +1,91 @@
+html, body {
+    background-image: url('gambar/cher.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.div1 {
+    background-color: transparent;
+    position: relative;
+    border: 1px solid black;
+    backdrop-filter: blur(15px);
+    margin-left: 4rem;
+    margin-right: 4rem;
+    border-radius: 2rem;
+    top: 1rem;
+}
+
+.judu {
+    font-family: "EB Garamond", serif;
+    color: black;
+}
+
+.judul2 {
+    position: relative;
+    top: 1rem;
+    left: 2rem;
+}
+
+.div2 {
+    display: flex;
+    font-family: "EB Garamond", serif;
+    position: relative;
+    padding: 10px;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+}
+
+.div3 {
+    position: relative;
+    padding: 10px;
+    margin-bottom: 20px;
+    height: 2rem;
+}
+
+.gamba {
+    height: 12rem;
+    margin-left: 3rem;
+}
+
+.bungkus {
+    position: relative;
+    width: 50rem;
+    left: 1.5rem;
+}
+
+.nama {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    height: 3rem;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+}
+
+.author {
+    font-size: 1.2rem;
+}
+
+.img {
+    width: 12rem;
+}
+
+#jvj {
+    position: relative;
+    justify-content: center;
+    height: 2.5rem;
+    border-radius: 1.5rem;
+    left: 38%;
+    width: 20rem;
+}
+
+#ljn {
+    position: relative;
+    justify-content: center;
+    height: 2.5rem;
+    border-radius: 1.5rem;
+    left: 31.2%;
+    width: 5rem;
+}
